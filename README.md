@@ -1,3 +1,3 @@
 # Membuat Tampilan HTML 
 
-![Screenshot (54)](https://user-images.githubusercontent.com/55042970/224050737-e15b7212-3155-429a-a8ed-a6bf90ab0467.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/55042970/224050938-348b8f2f-9e1d-4cc7-a673-a18532f23474.png)
